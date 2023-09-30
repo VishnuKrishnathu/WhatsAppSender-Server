@@ -1,0 +1,8 @@
+{
+    "prettier.configPath": "./.prettierrc",
+    "prettier.enableDebugLogs": true,
+    "eslint.options": {
+        "configFile": "./.eslintrc.js"
+    },
+    "thunder-client.customLocation": ""
+}
